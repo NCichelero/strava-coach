@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-07T05:18:19.669039",
+  "gerado_em": "2026-09-07T14:43:12.938854",
   "power_curve": {
     "picos": {
       "5s": 992,
@@ -9,15 +9,15 @@
       "180s": 250,
       "300s": 238,
       "600s": 238,
-      "1200s": 181,
+      "1200s": 178,
       "3600s": 179
     },
     "ftp_atual": 210,
-    "ftp_estimado": 171,
-    "diferenca": -39,
+    "ftp_estimado": 169,
+    "diferenca": -41,
     "sugere_teste": false,
     "percentual_acima": 0,
-    "wkg_estimado": 2.26
+    "wkg_estimado": 2.24
   },
   "tss_balance": null,
   "forecast": {
@@ -222,10 +222,6 @@
     "rua_pct": 0
   },
   "decoupling": {
-    "19243850794": {
-      "decoupling_pct": 9.0,
-      "qualidade": "bom"
-    },
     "19267918479": {
       "decoupling_pct": -15.2,
       "qualidade": "excelente"
@@ -287,9 +283,9 @@
     "recomendado": false,
     "urgencia": "nenhuma",
     "ftp_atual": 210,
-    "ftp_estimado": 171,
-    "diferenca": -39,
-    "pct_diferenca": -18.6,
+    "ftp_estimado": 169,
+    "diferenca": -41,
+    "pct_diferenca": -19.5,
     "melhor_data": "2026-09-08",
     "dias_ate_teste": 1,
     "melhor_tsb": 11.2,
